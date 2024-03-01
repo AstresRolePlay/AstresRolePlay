@@ -1,0 +1,2 @@
+CelestiaLib.Colors["Celestia_background"] = CelestiaLib.Colors["Celestia_background"] or Color(12, 30, 38, 253)
+CelestiaLib.Colors["Celestia_border"] = CelestiaLib.Colors["Celestia_border"] or Color(80, 112, 129)

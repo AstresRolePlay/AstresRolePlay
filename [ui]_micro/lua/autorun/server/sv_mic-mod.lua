@@ -1,0 +1,1 @@
+resource.AddFile( "materials/velonya/prp/micro/micro.png" )

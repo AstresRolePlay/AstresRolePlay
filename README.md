@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @AstresRolePlay
-- 👀 I’m interested in admin system and some lua 
-- 🌱 I’m currently learning lua 
-- 💞️ I’m looking to collaborate on AstresRoleplay and Celestia RolePLay
-- 📫 How to reach me my discord : stazy_biscuit
-- 😄 Pronouns: Alex
